@@ -1,0 +1,3 @@
+Graph - a structure amounting to a set of objects in which pairs of the objects are in some sense "related". the objects are vertices and their relation are edges.
+
+simple graph- Also called a strict graph. Its an unweighted, undirected graph containing no graph loops ormultiple edges.
