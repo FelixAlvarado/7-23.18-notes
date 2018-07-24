@@ -18,5 +18,27 @@ Sub-contraints of uniform interface:
 Prototype:
 All javascript objects inherit properties and methods from a prototype 
 
+default prototype: 
+
+an object with the only property constructor that points back to the function itself 
+
+HTML5 benefits:
+
+* Accessibility 
+* video and audio support 
+* doctype 
+* cleaner code 
+* smarter storage 
+* better interactions 
+* game developement 
+* legacy/cross broser suppoert 
+* mobile 
+* its the future 
+
+media queries:
+Allow webpages to work a certain way depending on the size of the screen.
+
+mobile-first design: 
+Designing for mobile first before designing for desktop. Forces developer to make needed changes to css
 
 
