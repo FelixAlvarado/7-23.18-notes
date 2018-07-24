@@ -15,5 +15,8 @@ Sub-contraints of uniform interface:
 * self-descriptive messages 
 * hypermedia 
 
+Prototype:
+All javascript objects inherit properties and methods from a prototype 
+
 
 
